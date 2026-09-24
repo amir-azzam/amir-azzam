@@ -1,146 +1,72 @@
 <div align="center">
 
-<!-- Typing banner (animated SVG) -->
-<a href="https://github.com/amir-azzam">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=560&lines=amir%40github+%3A~%24+whoami;Automation+%26+DevOps;Backend+%2B+Scripting+%2B+Linux" alt="typing banner" />
-</a>
+<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
+     wordmark (wipes in, then rocks on its vertical axis).
+     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
+     wordmark: WORDMARK_TEXT=AMIR python scripts/make_wordmark_svg.py --mode rock
+     wordmark build notes: docs/3d-ascii-wordmark.md -->
 
-</div>
+<h3><code>amir@github ~ $ whoami</code></h3>
 
----
+<table>
+<tr>
+<td valign="top"><img src="./portrait.svg" width="370" alt="Amir Azzam — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="AMIR — 3D ASCII wordmark" /></td>
+</tr>
+</table>
 
-### `amir@github ~ $ whoami`
+<p>
+Tech enthusiast &amp; intern into building and automation — comfortable in
+Docker, GitHub Actions and Linux. Currently deep in backend, scripting, and
+sharpening problem-solving. Always learning, always building.
+</p>
 
-```text
-Amir Azzam — tech enthusiast & intern, into building and automation.
-Comfortable in Docker, GitHub Actions, and Linux.
-Currently: backend development, scripting, and sharpening problem-solving.
-Always learning, always building.
-```
+<br>
 
----
+<h3><code>amir@github ~ $ ./stack.sh</code></h3>
 
-### `amir@github ~ $ ./portrait.sh`
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
-```text
-.......................      ........................................:
-..................     .....      ...................................:
-................  .=++##%%%##*+=-.  .................................:
-..............  :+%@@@@@@@@@@@@@@#=:.................................:
-...............=%@@@%%%##%%%####%@@=.................................:
-............ .+@@@#++==--==---==+#@#. ...............................:
-............. =@@%*==---------===+#@- ...............................:
-............. :%@%+===-------=+****%+ ...............................:
-............. .%%+=+**##%*==+##%%***+ ...............................:
-...............+%+=+****#*+==*+*+==++................................:
-.............. .*+==-===--==-==----=+. ..............................:
-.............. .=*===----=++=**=-==+*. ..............................-
-............... .+*===--=+*#*##**++##. ..............................:
-................ .+#**++*++*****###%*     ......................... .-
-................. .+%##=--==+***%%%@=:.......         ............. .-
-.................  .=%%*++++*%%%@@@#=::::::...........  ........... .-
-..........       ..::+*%#*%%@@@@%*=:::::...:::::::::::...  ........ .-
-........ ......::::::=+@#@%++++--::::::..............:::::.. ........-
-.....  ..:-::--:::::::*@%@*......:::::...................:::.  .... .-
-.... ..:::::::::::::::%%@@-....:::::.......................::.. ... .-
-.. ..::::...::::...::-##@#....:::::....::--------::..........::.. . .-
-. ..::....:......:--====++=:.:::::..:--=-=====--====-:.......:::..  .-
-...::...........:---======-..::::...:----=======++====++=-:.....:....-
-.::........:::::==--===++=.::::-::::=+*++*++++=+++++++#@@%++=-::.....:
-.::...::--:::::===-====++-::::::.....:=+++*+++********%@@#++++++==-::.
-:.....::.:...-==++===++++-:::::........::::::--====*+=+##***++++++++=-
-......:.::-::*=+++++**+=-:-:::.......................-+*********+++++*
-....::-====::+++++++=-----:::....................:::-=-=+************+
---=========-:-*#*++=---::.....................::-===++==--+***********
-===========+=--+==-::..................::...:---=======++=:-+*********
-=========+++++=-:::.....................::::--::::::::=++=...=***#####
-==++++++++++=-::......................::::::-------::-=+==.  .::-::::-
-++++++++*+==::......................:::.:::::::::::.-====- ..       .:
-+++***++*=-:::....................:::..:::::::::...:----=. ........ .-
-***+=:.-=-::::........................::::::::...:--:::-:.......... .-
-.::.....-::::........................::.........:--:::---. ........ .-
-........:::::..................................::::..::--. ........ .-
-.......:::::::...............................::......::--: ........ .-
-.......::::::...............................:......:..::-: ........ .-
-....:.::::::..........................................::::......... .-
-..::..::::::..........................................::::. ....... .-
-.......:::::::.......................................:::::. ....... .-
-.......:::::......................................::.:::::. ....... .-
-.......::::............................................:::. ....... .-
-......::::::..:.................................:......:::. ....... .:
-......::::::..................................::......::::.         .:
-      :::::::...............................:........::::::...::::::-=
---====:::::::::.....................................::.:::*@@@@@@@@@@@
-@@@@@%............................................::::::::*@@@@@@@@@@@
-@@@@@+............................................:...:::.+@@@@@@@@@@@
-@@@@@-.....................................::--=--::::::::=%%%@%%@@@@@
-@@@@%=====++++===================+++***##%%%@@@@@@@@@%@*=+:.::-:*@@@#*
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@==*=++==+#@@+::
-+*##++#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%%%%@@#--:
-..::::+@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+=---=----#@#=-:
-+*+++=*@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-=-:-:----:*@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#%##%%%#%%%@@@@@@
-@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@%%%%%%%%%@@@%%
-@@@@@@@@@%%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#############%%%%##
-%%%%%%%@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%**##*********#%%##*
-```
+<br>
 
----
+<h3><code>amir@github ~ $ ./projects.sh --featured</code></h3>
 
-### `amir@github ~ $ ./stack.sh`
+<p align="left">
+<b>VariOne</b> — a multi-tool pentesting/education device (ESP32) for teaching
+wireless security in a controlled lab: WiFi scanning, packet monitoring,
+sub-GHz RF, and an OLED mascot UI. Built for a cybersecurity graduation project.
+</p>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<br>
 
----
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-### `amir@github ~ $ ./projects.sh --featured`
+<h3><code>amir@github ~ $ ./contributions.sh</code></h3>
 
-> **VariOne** — a multi-tool pentesting/education device (ESP32) for teaching wireless
-> security in a controlled lab: WiFi scanning, packet monitoring, sub-GHz RF, and an
-> OLED mascot UI. Built for a cybersecurity graduation project.
+<img src="./contrib-heatmap.svg" width="860" alt="Amir's GitHub contribution graph — auto-refreshed daily" />
 
----
+<br>
+<br>
 
-### `amir@github ~ $ ./stats.sh`
+<h3><code>amir@github ~ $ ./links.sh</code></h3>
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amir--azzam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-azzam)
+[![GitHub](https://img.shields.io/badge/GitHub-amir--azzam-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amir-azzam)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=amir-azzam&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=amir-azzam&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-azzam&theme=dark&hide_border=true&layout=compact)
-
-</div>
-
----
-
-### `amir@github ~ $ ./links.sh`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-azzam)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amir-azzam)
-
-![Profile Views](https://visitcount.itsvg.in/api?id=amir-azzam&icon=0&color=0)
+<br>
 
 </div>

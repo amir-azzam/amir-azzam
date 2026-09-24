@@ -45,9 +45,26 @@ sharpening problem-solving. Always learning, always building.
 <h3><code>amir@github ~ $ ./projects.sh --featured</code></h3>
 
 <p align="left">
-<b>VariOne</b> — a multi-tool pentesting/education device (ESP32) for teaching
-wireless security in a controlled lab: WiFi scanning, packet monitoring,
-sub-GHz RF, and an OLED mascot UI. Built for a cybersecurity graduation project.
+<b><a href="https://github.com/amir-azzam/NHA-4-269">Wijha</a></b> — an AWS
+microservices travel aggregator (DEPI DevOps graduation project). One search
+returns <b>flights + hotels + weather</b> for a trip, priced in any currency,
+across <b>6 stateless Node.js / React services</b> (no database by design).
+</p>
+
+<p align="left">
+It runs on a three-node <b>k3s</b> cluster on AWS EC2 — provisioned with
+<b>Terraform</b>, configured with <b>Ansible</b>, shipped by a <b>GitHub Actions</b>
+CI/CD pipeline (build 6 images → Docker Hub → <code>kubectl apply</code> + rollout),
+and observed with <b>Prometheus / Grafana / Alertmanager</b> (email alerting).
+Backends run <code>replicas: 2</code> with HPA and podAntiAffinity behind a
+Traefik ingress.
+</p>
+
+<p align="left">
+<b><a href="https://github.com/amir-azzam/variOne">VariOne</a></b> — a multi-tool
+pentesting/education device (ESP32) for teaching wireless security in a
+controlled lab: WiFi scanning, packet monitoring, sub-GHz RF, and an OLED mascot
+UI. Cybersecurity graduation project.
 </p>
 
 <br>
